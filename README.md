@@ -15,7 +15,7 @@ ensure Instacart targets the right customer profiles with the appropriate produc
 ## Key Questions
 The stakeholders would like to be able to answer the following key questions:
 
-<ul>
+<ol>
   <li> The sales team needs to know what the busiest days of the week and hours of the
   day are (i.e., the days and times with the most orders) in order to schedule ads at 
   times when there are fewer orders. </li>
@@ -33,7 +33,7 @@ The stakeholders would like to be able to answer the following key questions:
 
   <li> The marketing and sales teams are particularly interested in the different types of
   customers in their system and how their ordering behaviors differ. </li> 
-</ul>
+</ol>
 
 ## Datasets
 <ul>
