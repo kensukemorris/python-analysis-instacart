@@ -1,4 +1,4 @@
-# python-analysis-instacart
+# Investigating Instacart's Customer Behaviour
 Descriptive analysis to identify customer segments using data from Instacart.
 
 Note: this analysis do was conducted using publicly available data. The contents of this project are for educational purposes and do not reflect the internal operations of Instacart.
